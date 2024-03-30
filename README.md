@@ -1,2 +1,2 @@
-# lambdadark
-A OneDark inspired colorscheme
+# lambdaDark - a OneDark inspired colorscheme
+
