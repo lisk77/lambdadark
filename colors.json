@@ -1,0 +1,66 @@
+{
+    "name": "lambdadark",
+    "author": "lisk77",
+    "version": "1.0",
+    "colors": {
+        "neutral-50": "#f9ffff",
+        "neutral-100": "#f1f8ff",
+        "neutral-200": "#dde4f2",
+        "neutral-300": "#abb2bf",
+        "neutral-400": "#6e727b",
+        "neutral-500": "#43474f",
+        "neutral-600": "#31353d",
+        "neutral-700": "#282c34",
+        "neutral-800": "#23272e",
+        "neutral-900": "#1e2227",
+
+        "yellow-300": "#fff8b1",
+        "yellow-400": "#ffdc95",
+        "yellow-500": "#e5c07b",
+        "yellow-600": "#ac8b49",
+        "yellow-700": "#755918",
+
+        "orange-300": "#ffcdac",
+        "orange-400": "#ffb192",
+        "orange-500": "#e29678",
+        "orange-600": "#a86247",
+        "orange-700": "#71321b",
+
+        "red-300": "#ffa3a9",
+        "red-400": "#fe878f",
+        "red-500": "#fe878f",
+        "red-600": "#a53745",
+        "red-700": "#a53745",
+
+        "magenta-300": "#ffaeff",
+        "magenta-400": "#e393fa",
+        "magenta-500": "#c678dd",
+        "magenta-600": "#8e44a5",
+        "magenta-700": "#590e71",
+
+        "violet-300": "#cbc9ff",
+        "violet-400": "#afaeff",
+        "violet-500": "#9393e6",
+        "violet-600": "#5d61ae",
+        "violet-700": "#283279",
+
+        "blue-300": "#9ce7ff",
+        "blue-400": "#7fcaff",
+        "blue-500": "#61afef",
+        "blue-600": "#187bb7",
+        "blue-700": "#004a81",
+    
+        "cyan-300": "#90eefb",
+        "cyan-400": "#73d2de",
+        "cyan-500": "#56b6c2",
+        "cyan-600": "#0a818d",
+        "cyan-700": "#006773",
+    
+        "green-300": "#cffcae",
+        "green-400": "#b3df93",
+        "green-500": "#98c379",
+        "green-600": "#648d47",
+        "green-700": "#325b17"
+    }
+    
+}
