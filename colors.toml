@@ -1,0 +1,59 @@
+[colors]
+background = '#1e2227'
+foreground = '#abb2bf'
+cursor_bg = '#6e727b'
+cursor_border = '#abb2bf'
+cursor_fg = '#23272e'
+
+ansi = [
+    '#282c34',
+    '#e06c75',
+    '#98c379',
+    '#e5c07b',
+    '#61afef',
+    '#c678dd',
+    '#56b6c2',
+    '#abb2bf',
+]
+brights = [
+    '#31353d',
+    '#fe878f',
+    '#b3df93',
+    '#ffdc95',
+    '#7fcaff',
+    '#e393fa',
+    '#73d2de',
+    '#dde4f2',
+]
+
+[colors.tab_bar]
+background = "#1e2227"
+
+[colors.tab_bar.active_tab]
+bg_color = '#23272e'
+fg_color = '#abb2bf'
+intensity = 'Normal'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#1e2227'
+fg_color = '#6e727b'
+intensity = 'Normal'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.new_tab]
+bg_color = '#1e2227'
+fg_color = '#abb2bf'
+intensity = 'Normal'
+italic = false
+strikethrough = false
+underline = 'None'
+
+
+[metadata]
+name = 'LambdaDark'
+origin_url = ''
